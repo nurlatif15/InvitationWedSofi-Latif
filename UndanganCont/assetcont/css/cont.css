@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/UndanganCont/assetcont/img/bgcont.svg"); /* ganti sesuai nama file kamu */
+    background-image: url("../assetcont/img/bgcont.svg"); /* ganti sesuai nama file kamu */
     background-repeat: repeat-y;
     background-position: center top;  /* posisi tengah secara horizontal */
     background-size: auto;            /* biar ukuran asli gambar dipakai */
